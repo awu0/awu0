@@ -9,4 +9,14 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,linux,c,cpp,java,kotlin,jenkins,androidstudio&perline=7)](https://skillicons.dev)
+#### Web Stack
+[![My Web Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react&perline=7)](https://skillicons.dev)
+
+#### Mobile
+[![My Other Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio&perline=7)](https://skillicons.dev)
+
+#### Databases
+[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=7)](https://skillicons.dev)
+
+#### Others
+[![My Other Skills](https://skillicons.dev/icons?i=linux,c,cpp,jenkins&perline=7)](https://skillicons.dev)
