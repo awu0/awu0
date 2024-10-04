@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m @awu0
-- 🌱 I’m currently learning Mobile/Android Development and Game Development
+- 🌱 I’m currently learning
 
 #### Things I can use
 **Web**:
