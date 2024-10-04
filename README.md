@@ -20,4 +20,4 @@ MongoDB, MySQL, PostgreSQL
 C, C++, Linux, Jenkins
 
 ---
-[![My Other Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,java,kotlin,androidstudio,c,cpp,linux,jenkins,mongodb,mysql,postgres&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,java,kotlin,androidstudio,c,cpp,linux,jenkins,mongodb,mysql,postgres&perline=10)](https://skillicons.dev)
